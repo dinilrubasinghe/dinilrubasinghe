@@ -16,13 +16,23 @@
 
 <br/>
 
-<!--
-### Skills and Technologies⚙️
+### Skills and Utilities⚙️
 
   ##### Languages >
-   &nbsp;&nbsp;&nbsp;&nbsp;![Javascript](https://img.shields.io/badge/Javascript-yellow)
-   &nbsp;&nbsp;&nbsp;&nbsp;![Javascript](https://img.shields.io/badge/HTML-orange)
-   &nbsp;&nbsp;&nbsp;&nbsp;![Javascript](https://img.shields.io/badge/CSS-blue)
-   &nbsp;&nbsp;&nbsp;&nbsp;![Javascript](https://img.shields.io/badge/PYTHON-green)
+   &nbsp;&nbsp;&nbsp;&nbsp;<img src="/icons/js.png" alt="Javascript" width="50"/>
+   &nbsp;&nbsp;&nbsp;&nbsp;<img src="/icons/html.png" alt="HTML" width="50"/>
+   &nbsp;&nbsp;&nbsp;&nbsp;<img src="/icons/css.png" alt="CSS" width="50"/>
+   &nbsp;&nbsp;&nbsp;&nbsp;<img src="/icons/sass.png" alt="SASS" width="50"/>
+   &nbsp;&nbsp;&nbsp;&nbsp;<img src="/icons/python.png" alt="Python" width="60"/>
+   &nbsp;&nbsp;&nbsp;&nbsp;<img src="/icons/c.png" alt="C" width="50"/>
    
-   -->
+   ##### Tools and Technologies >  
+   
+   &nbsp;&nbsp;&nbsp;&nbsp;<img src="/icons/vscode.png" alt="SASS" width="50"/>
+   &nbsp;&nbsp;&nbsp;&nbsp;<img src="/icons/windows.png" alt="SASS" width="50"/>
+   &nbsp;&nbsp;&nbsp;&nbsp;<img src="/icons/creative-cloud.png" alt="SASS" width="50"/>
+   &nbsp;&nbsp;&nbsp;&nbsp;<img src="/icons/illustrator.png" alt="SASS" width="50"/>
+   &nbsp;&nbsp;&nbsp;&nbsp;<img src="/icons/photoshop.png" alt="SASS" width="50"/>
+   &nbsp;&nbsp;&nbsp;&nbsp;<img src="/icons/adobe-xd.png" alt="SASS" width="50"/>
+   &nbsp;&nbsp;&nbsp;&nbsp;<img src="/icons/git.png" alt="SASS" width="50"/>
+   &nbsp;&nbsp;&nbsp;&nbsp;<img src="/icons/github.png" alt="SASS" width="50"/>
